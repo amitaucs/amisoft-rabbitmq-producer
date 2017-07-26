@@ -11,7 +11,7 @@ public class UserEmail {
     public UserEmail(String userEmailId, String message) {
         this.userEmailId = userEmailId;
         this.message = message;
-    }
+}
 
     public String getUserEmailId() {
         return userEmailId;
